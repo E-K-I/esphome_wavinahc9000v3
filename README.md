@@ -1,3 +1,5 @@
+Works with ESPHOME 2026.9.1
+
 # ESPHome Component: Wavin AHC 9000 / Jablotron AC-116 (v3 restart)
 
 Integrates the Wavin AHC 9000 (a.k.a. Jablotron AC-116) floor heating controller via its RS‑485 protocol (custom function codes 0x43 / 0x44 / 0x45). Provides auto‑discovery assisted YAML generation, single & grouped climate entities, comfort (floor‑temperature based) climates, and optional per‑channel sensors.
